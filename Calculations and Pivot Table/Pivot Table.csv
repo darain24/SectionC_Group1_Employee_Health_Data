@@ -1,0 +1,25 @@
+,,,,,,,,,,
+,,,,,,,,,,
+SleepBucket,COUNT of EmployeeID,MEDIAN of ProductivityScore,,StressCategory,COUNTA of EmployeeID,MEDIAN of ProductivityScore,,WorkHourCategory,COUNT of EmployeeID,AVERAGE of ProductivityScore
+Excess,1898,60,,Low Stress,3422,84,,Underutilized,2472,58.68567961
+Optimal,4787,55,,Moderate Stress,3595,56,,Balanced,4400,57.54295455
+Sleep Deficit,3815,50,,High Stress,3483,20,,Overwork,3628,41.04878721
+Grand Total,10500,54,,Grand Total,10500,54,,Grand Total,10500,52.11285714
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+Health Risk,COUNT of EmployeeID,AVERAGE of ProductivityScore,AVERAGE of StressLevel,AVERAGE of SleepHours,AVERAGE of WorkHours,,,ActivityLevel,COUNT of EmployeeID,MEDIAN of ProductivityScore
+High Risk,454,7.960352423,8.09030837,4.957048458,10.49823789,,,High Activity,4115,57
+Normal,10046,54.10820227,4.87855863,6.589816843,7.866484173,,,Low Activity,2379,52
+Grand Total,10500,52.11285714,5.017428571,6.519219048,7.98027619,,,Moderate,4006,52
+,,,,,,,,Grand Total,10500,54
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+AVERAGE of ProductivityScore,SleepBucket,,,,,AVERAGE of ProductivityScore,StressCategory,,,
+StressCategory,Sleep Deficit,Optimal,Excess,,,WorkHourCategory,High Stress,Moderate Stress,Low Stress,Grand Total
+High Stress,16.72413793,20.71191842,24.14449918,,,Balanced,24.71891892,61.15127175,87.82959327,57.54295455
+Moderate Stress,51.25464396,55.71428571,60.18195489,,,Overwork,10.34778982,43.18110236,70.4728214,41.04878721
+Low Stress,78.5320197,83.00253165,86.31570513,,,Underutilized,24.91915423,61.73525872,88.09318996,58.68567961
+,,,,,,Grand Total,19.81797301,54.9379694,82.01548802,52.11285714
