@@ -1,4 +1,4 @@
-# 🧠 Employee Health & Productivity Analytics
+#  Employee Health & Productivity Analytics
 
 ## Optimizing Workforce Performance: An Analysis of Employee Health, Stress, and Productivity Drivers
 
@@ -7,7 +7,7 @@
 
 ---
 
-## 👥 Team Members
+##  Team Members
 
 * Aditya Srivastava
 * Hardik Hathwal
@@ -18,13 +18,13 @@
 
 ---
 
-# 📌 Executive Summary
+#  Executive Summary
 
-### 🔎 Problem
+###  Problem
 
 A mid-sized corporate organization lacks data-driven visibility into how employee health factors (stress, sleep, lifestyle) impact productivity. HR decisions around wellness and workload management are based on intuition rather than analytics, increasing burnout risk and reducing efficiency.
 
-### 🛠 Approach
+###  Approach
 
 We acted as Workplace Analytics Consultants and analyzed ~10,500 employee records.
 Our process included:
@@ -35,13 +35,13 @@ Our process included:
 * Segmentation & risk detection
 * Interactive dashboard development
 
-### 🔥 Key Insights
+###  Key Insights
 
 * **Stress is the primary productivity driver** → Correlation: **-0.81**
 * **Sleep significantly impacts performance** → Correlation: **+0.77**
 * **4.32% employees are High Health Risk**, requiring urgent intervention
 
-### ✅ Key Recommendations
+###  Key Recommendations
 
 * Implement workload control policies
 * Launch stress-management programs
@@ -49,7 +49,7 @@ Our process included:
 
 ---
 
-# 🏢 Sector & Business Context
+#  Sector & Business Context
 
 ## Sector Overview
 
@@ -67,13 +67,13 @@ This project quantifies how employee health impacts productivity and enables HR 
 
 ---
 
-# 🎯 Problem Statement
+#  Problem Statement
 
 > Which employee health and lifestyle factors most significantly impact productivity, and what targeted HR interventions can optimize performance while minimizing burnout risk?
 
 ---
 
-# 📊 Project Scope
+#  Project Scope
 
 **Population:** 10,500 employees
 **Departments:** IT, HR, Marketing, Finance, Operations
@@ -92,7 +92,7 @@ This project quantifies how employee health impacts productivity and enables HR 
 
 ---
 
-# 📈 Success Criteria
+#  Success Criteria
 
 * Identify ≥ 3 high-impact correlations
 * Develop Burnout Risk metric
@@ -100,7 +100,7 @@ This project quantifies how employee health impacts productivity and enables HR 
 
 ---
 
-# 📁 Data Description
+#  Data Description
 
 **Size:** ~10,500 rows × 15 columns
 **Format:** Structured CSV
@@ -124,7 +124,7 @@ This project quantifies how employee health impacts productivity and enables HR 
 
 ---
 
-# 🧹 Data Cleaning & Preparation
+#  Data Cleaning & Preparation
 
 Performed in Google Sheets.
 
@@ -156,7 +156,7 @@ Created:
 
 ---
 
-# 📊 KPI & Metric Framework
+#  KPI & Metric Framework
 
 ### 1️⃣ Average Productivity Score
 
@@ -198,7 +198,7 @@ Overwork does not proportionally increase productivity.
 
 ---
 
-# 📊 Exploratory Data Analysis (EDA)
+#  Exploratory Data Analysis (EDA)
 
 ## Trend Analysis
 
@@ -216,7 +216,7 @@ Overwork does not proportionally increase productivity.
 
 ---
 
-# 🧠 Advanced Analysis
+#  Advanced Analysis
 
 ## Segmentation (Health Risk Matrix)
 
@@ -230,7 +230,7 @@ Overwork does not proportionally increase productivity.
 
 ---
 
-# 📊 Dashboard Design
+#  Dashboard Design
 
 ## Implementation
 
@@ -260,7 +260,7 @@ Provide HR with a centralized, real-time view of workforce health and productivi
 
 ---
 
-# 📌 Key Insights (Decision-Oriented)
+#  Key Insights (Decision-Oriented)
 
 * Stress is the strongest productivity driver.
 * Sleep below 6 hours significantly reduces output.
@@ -271,7 +271,7 @@ Provide HR with a centralized, real-time view of workforce health and productivi
 
 ---
 
-# 🚀 Recommendations
+#  Recommendations
 
 * Implement structured stress management programs.
 * Introduce email curfew policy (post 7 PM).
@@ -281,7 +281,7 @@ Provide HR with a centralized, real-time view of workforce health and productivi
 
 ---
 
-# 💰 Business Impact Estimation
+#  Business Impact Estimation
 
 * Shifting Sleep Deficit group → potential **10–15% productivity gain**
 * Targeting High Risk group reduces medical leave & turnover
@@ -297,7 +297,7 @@ Provide HR with a centralized, real-time view of workforce health and productivi
 
 ---
 
-# 🔮 Future Scope
+#  Future Scope
 
 * Regression-based productivity prediction
 * Sentiment analysis on employee comments
@@ -306,7 +306,7 @@ Provide HR with a centralized, real-time view of workforce health and productivi
 
 ---
 
-# 🏁 Conclusion
+#  Conclusion
 
 Employee health is not just a wellness issue — it is a productivity driver.
 By addressing High Stress (33%) and Sleep Deficit (36%), the organization can unlock significant latent performance.
@@ -317,7 +317,7 @@ The dashboard enables leadership to shift from:
 
 ---
 
-# 📚 Appendix
+#  Appendix
 
 ### Data Dictionary
 
@@ -328,7 +328,7 @@ The dashboard enables leadership to shift from:
 
 ---
 
-# 👥 Contribution Matrix
+#  Contribution Matrix
 
 | Member            | Role               |
 | ----------------- | ------------------ |
